@@ -1,3 +1,3 @@
 # GEINF-BDD-PracticaPHP
-- Computer Science degree. Database subject.
-- Simple web application using PHP and Oracle. 
+. [Requeriments](docs/practicaPHP_1819.pdf)
+. [Memòria](docs/Memoria.pdf) 
